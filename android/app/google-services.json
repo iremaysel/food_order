@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389922915051",
+    "project_id": "emailpasswordauthenticat-db6e7",
+    "storage_bucket": "emailpasswordauthenticat-db6e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389922915051:android:328afc4c6b4a753e5974ae",
+        "android_client_info": {
+          "package_name": "com.example.food_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389922915051-2lgdcdp8svu9ahk4kst7rho5fcnvf2ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_order",
+            "certificate_hash": "69fe36206ac6649fbd09c6541c12a4bdd5d854bd"
+          }
+        },
+        {
+          "client_id": "389922915051-4rqlvvffa1j140d3osa8n49q7i7omcjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAKVjayxI6ke8miLhenV-8rmM5hDbo30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389922915051-4rqlvvffa1j140d3osa8n49q7i7omcjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
